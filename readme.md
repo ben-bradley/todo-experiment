@@ -3,7 +3,7 @@
 ## Task 1.1
 
 - Subtask 1.1.1
-- Subtask 1.1.2
+- ~~Subtask 1.1.2~~
 
 ## Task 1.2
 
